@@ -33,8 +33,9 @@ No new features are planned at this time.
 ## **Specs**
 | Test | Input | Output |
 | :-- | :--| :-- |
-| it will compare a card to another card | card1 === card2 | True |
+| it will construct a array within a object|card1, card2, card3| deck.cards[card1, card2, card3]|
 | it will compare a card to another card | card1 === card3 | False |
+| it will compare a card to another card | card1 === card2 | True |
 |  |  |  |
 |  |  |  |
 |  |  |  |
