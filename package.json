@@ -1,7 +1,7 @@
 {
   "name": "memory_game",
   "version": "1.0.0",
-  "description": "",
+  "description": "A basic game of 'memory'",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode=development",
@@ -10,7 +10,7 @@
     "test": "jest --coverage"
   },
   "keywords": [],
-  "author": "",
+  "author": "Randel Moore, Ryland Adams",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.6.4",
